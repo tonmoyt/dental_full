@@ -1,0 +1,706 @@
+@media(min-width:0px) and (max-width:2560px){
+  
+}
+
+@media(min-width:0px) and (max-width:1440px){
+   
+
+
+
+}
+
+@media(min-width:0px) and (max-width:1024px){
+  
+}
+
+@media(min-width:768px) and (max-width:991px){
+    .contact1 ul {
+        align-items: center;
+        text-align: center;
+        display: inherit;
+        list-style: none;
+        justify-content: flex-end;
+    }
+    .icon {
+        margin-bottom: 0px;
+    }
+
+    .contact1 ul li h5 {
+        
+        font-size: 10px;
+        
+    }
+
+    .header_content h5 {
+        
+        font-size: 9px;
+        
+    }
+
+    .header_content h1 {
+        
+        font-size: 20px;
+        
+    }
+
+    .btn-feature {
+        
+        margin-top: 10px;
+        margin-left: 0px;
+        
+    }
+
+    .agency {
+        padding: 56px 0px;
+    }
+
+
+    .plus_agency h1 {
+        font-size: 22px;
+       
+    }
+    .ou_service_content ul li h2 {
+        font-size: 11px;
+        font-weight: 700;
+        transition: 0.5s all ease-in-out;
+    }
+
+    .ou_service_content p {
+        
+        font-size: 11px;
+    }
+
+    .ou_service_content h1 {
+        font-size: 13px;
+        
+    }
+    .price p {
+        
+        font-size: 17px;
+        padding: 0;
+       
+    }
+    .price h2 {
+       
+        font-size: 16px;
+       
+    }
+
+    .price h3 {
+       
+        font-size: 11px;
+        /* border-bottom: 1px solid #e0e0e0; */
+    }
+
+    .floon_icon ul li i {
+        
+        margin-left: 0px;
+       
+    }
+
+
+
+
+
+
+
+
+
+
+
+ 
+}
+    
+
+@media(min-width:576px) and (max-width:767px){
+
+    .contact1 {
+       
+        display: none;
+    }
+    header img {
+       
+        margin-bottom: 50px;
+    }
+    header {
+        text-align: center;
+    }
+    .navbar {
+        
+        text-align: center;
+    }
+
+
+
+    .navbar-light .navbar-nav .nav-link {
+        
+        padding: 10px;
+        display: inline-block;
+      
+    }
+
+
+    .apointment {
+       
+        display: inline-block;
+       
+        transform: none;
+    }
+
+    .apoinment_content {
+        transform: none;
+        color: white;
+        padding: 0;
+        margin-bottom: 2px;
+        /* margin: 0; */
+        margin-right: 0px;
+    }
+
+    .hg {
+        align-items: center;
+        text-align: center;
+        /* min-height: 90vh; */
+    }
+
+    .header_content h5 {
+       
+        font-size: 26px;
+        
+    }
+    .header_content h1 {
+       
+        font-size: 49px;
+        
+    }
+
+    .agency {
+        padding: 52px;
+        text-align: center;
+    }
+
+
+    .follw_w{
+        text-align:center;
+        margin-top: 42px;
+        }
+        
+        .follw_w h1{
+        
+        color: #fff;
+        
+        /* margin-top: 13px; */
+        
+        font-size: 27px;
+        
+        width: auto;
+        }
+        
+        .floon_icon{
+        
+        margin: 0;
+        
+        /* padding: 0; */
+        
+        /* letter-spacing: 15px; */
+        }
+        
+        .floon_icon ul{
+        
+        list-style: none;
+        
+        padding-left: 134px;
+        
+        /* padding: 1px; */
+        
+        display: inline-block;
+        
+        text-align: center;
+        
+        /* margin-top: 44px; */
+        
+        align-items: center;
+        
+        /* margin-left: 4px; */
+        
+        /* padding-right: 0; */
+        
+        /* margin-right: 0; */
+        
+        display: flex;
+        
+        /* letter-spacing: 2px; */
+        }
+        
+        .floon_icon ul li{
+        
+        /* margin-right: -1px; */
+        }
+        
+        .floon_icon ul li i{
+        
+        height: 39px;
+        
+        width: 38px;
+        
+        margin-left: 9px;
+        
+        color: #fff;
+        
+        line-height: 40px;
+        
+        text-align: center;
+        
+        background: #323232;
+        
+        transition: 0.5s all ease-in-out;
+        }
+
+
+
+
+
+
+
+
+
+   
+
+}
+
+@media(min-width:426px) and (max-width:575px){
+    .contact1 {
+       
+        display: none;
+    }
+    header img {
+       
+        margin-bottom: 50px;
+    }
+    header {
+        text-align: center;
+    }
+    .navbar {
+        
+        text-align: center;
+    }
+
+
+
+    .navbar-light .navbar-nav .nav-link {
+        
+        padding: 10px;
+        display: inline-block;
+      
+    }
+
+
+    .apointment {
+       
+        display: inline-block;
+       
+        transform: none;
+    }
+
+    .apoinment_content {
+        transform: none;
+        color: white;
+        padding: 0;
+        margin-bottom: 2px;
+        /* margin: 0; */
+        margin-right: 0px;
+    }
+
+    .hg {
+        align-items: center;
+        text-align: center;
+        /* min-height: 90vh; */
+    }
+
+    .header_content h5 {
+       
+        font-size: 26px;
+        
+    }
+    .header_content h1 {
+       
+        font-size: 49px;
+        
+    }
+
+    .agency {
+        padding: 52px;
+        text-align: center;
+    }
+    .follw_w {
+        margin-top: 42px;
+        text-align: center;
+    }
+    .floon_icon ul {
+        list-style: none;
+        margin-top: 14px;
+        align-items: center;
+        margin-left: 118px;
+        /* padding-right: 0; */
+        /* margin-right: 0; */
+        display: flex;
+        /* letter-spacing: 2px; */
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media(min-width:376px) and (max-width:425px){
+    .contact1 {
+      
+        display: none;
+    }
+
+    header {
+        text-align: center;
+        margin-bottom: 26px;
+    }
+
+    .navbar {
+        
+        text-align: center;
+        
+    }
+
+
+    .navbar-light .navbar-nav .nav-link {
+        
+        padding: 6px;
+        display: inline-block;
+      
+    }
+
+    .apointment {
+        display: inline-block;
+        padding: 9px;
+        transform: none;
+        margin-bottom: 7px;
+    }
+
+    .apoinment_content {
+        transform: none; 
+        
+    }
+
+    .header_content {
+        text-align: center;
+    }
+    .header_content h5 {
+        
+font-size: 19px;
+    }
+    .header_content h1 {
+        
+font-size: 34px;
+    }
+
+    .btn-feature {
+       
+        padding: 8px 6px;
+      
+        margin-left: 0px;
+        
+    }
+
+    .btn-download {
+       
+        padding: 8px 3px;
+       
+    }
+    .owl-dots {
+        
+        top: 68%;
+    }
+    .agency {
+        padding: 56px 0;
+        text-align: center;
+    }
+
+    .agencyimg img {
+        width: 75%;
+        margin-bottom: 13px;
+    }
+    .plus_agency h1 {
+        font-size: 22px;
+        margin-bottom: 17px;
+        
+    }
+
+    .price p {
+       
+        font-size: 17px;
+        padding: 13px 46px;
+        
+    }
+
+    .follw_w h1 {
+        
+        text-align: center;
+    }
+    .floon_icon ul {
+        list-style: none;
+        margin-top: 7px;
+        margin-left: 42px;
+        align-items: center;
+    }
+    .footer_before {
+       
+        padding: 32px 0px;
+    }
+    .footer h1 {
+        
+        font-size: 9px;
+    }
+
+    
+    
+
+}
+
+@media(min-width:321px) and (max-width:375px){
+ 
+    .contact1 {
+      
+        display: none;
+    }
+
+    header {
+        text-align: center;
+        margin-bottom: 26px;
+    }
+
+    .navbar {
+        
+        text-align: center;
+        
+    }
+
+
+    .navbar-light .navbar-nav .nav-link {
+        
+        padding: 6px;
+        display: inline-block;
+      
+    }
+
+    .apointment {
+        display: inline-block;
+        padding: 9px;
+        transform: none;
+        margin-bottom: 7px;
+    }
+
+    .apoinment_content {
+        transform: none; 
+        
+    }
+
+    .header_content {
+        text-align: center;
+    }
+    .header_content h5 {
+        
+        font-size: 13px;
+        
+    }
+    .header_content h1 {
+        
+        font-size: 26px;
+       
+    }
+
+    .btn-feature {
+       
+        padding: 8px 6px;
+      
+        margin-left: 0px;
+        
+    }
+
+    .btn-download {
+       
+        padding: 8px 3px;
+       
+    }
+    .owl-dots {
+        
+        top: 68%;
+    }
+    .agency {
+        padding: 56px 0;
+        text-align: center;
+    }
+
+    .agencyimg img {
+        width: 75%;
+        margin-bottom: 13px;
+    }
+    .plus_agency h1 {
+        font-size: 22px;
+        margin-bottom: 17px;
+        
+    }
+
+    .price p {
+       
+        font-size: 17px;
+        padding: 13px 46px;
+        
+    }
+
+    .follw_w h1 {
+        
+        text-align: center;
+    }
+    .floon_icon ul {
+        list-style: none;
+        margin-top: 7px;
+        margin-left: 18px;
+        align-items: center;
+    }
+    .footer_before {
+       
+        padding: 32px 0px;
+    }
+    .footer h1 {
+        
+        font-size: 9px;
+    }
+
+
+
+
+
+
+
+
+ 
+
+}
+@media(min-width:0px) and (max-width:320px){
+
+    .contact1 {
+      
+        display: none;
+    }
+
+    header {
+        text-align: center;
+        margin-bottom: 26px;
+    }
+
+    .navbar {
+        
+        text-align: center;
+        
+    }
+
+
+    .navbar-light .navbar-nav .nav-link {
+        
+        padding: 6px;
+        display: inline-block;
+      
+    }
+
+    .apointment {
+        display: inline-block;
+        padding: 9px;
+        transform: none;
+        margin-bottom: 7px;
+    }
+
+    .apoinment_content {
+        transform: none; 
+        
+    }
+
+    .header_content {
+        text-align: center;
+    }
+    .header_content h5 {
+        
+        font-size: 13px;
+        
+    }
+    .header_content h1 {
+        
+        font-size: 26px;
+       
+    }
+
+    .btn-feature {
+       
+        padding: 8px 6px;
+      
+        margin-left: 0px;
+        
+    }
+
+    .btn-download {
+       
+        padding: 8px 3px;
+       
+    }
+    .owl-dots {
+        
+        top: 68%;
+    }
+    .agency {
+        padding: 56px 0;
+        text-align: center;
+    }
+
+    .agencyimg img {
+        width: 75%;
+        margin-bottom: 13px;
+    }
+    .plus_agency h1 {
+        font-size: 22px;
+        margin-bottom: 17px;
+        
+    }
+
+    .price p {
+       
+        font-size: 17px;
+        padding: 13px 46px;
+        
+    }
+
+    .follw_w h1 {
+        
+        text-align: center;
+    }
+    .floon_icon ul {
+        list-style: none;
+        margin-top: 7px;
+        align-items: center;
+       
+    }
+    .footer_before {
+       
+        padding: 32px 0px;
+    }
+    .footer h1 {
+        
+        font-size: 9px;
+    }
+
+
+}
